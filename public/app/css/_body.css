@@ -1,0 +1,12 @@
+body{
+        margin: 0px;
+        padding: 0px;
+        height: 750px;
+        background-color: var(--darkBlue);
+}
+
+*{
+    font-family: 'Commissioner', sans-serif;;
+    font-size: 28px;
+    font-weight: 300;
+}
